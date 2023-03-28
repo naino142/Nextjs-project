@@ -16,6 +16,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.15.10",
+    "@types/react": "18.0.30",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.27.0",
     "eslint-config-airbnb": "^19.0.4",

@@ -38,3 +38,4 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
 );
 
 export default InsightCard;
+
